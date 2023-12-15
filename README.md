@@ -1,6 +1,6 @@
 # Nextflow and Containers Workshop
 
-For course content, please see the [wiki](https://github.com/statonlab/NF_WORKSHOP/wiki).
+For course content, please see the [wiki](https://github.com/ryandkuster/NF_WORKSHOP/wiki).
 
 
 ---
