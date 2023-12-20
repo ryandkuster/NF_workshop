@@ -1,2 +1,9 @@
 **/work/
 .nextflow*
+*fastq
+*fastq.gz
+*.sif
+*.fa
+*.gtf
+*.fna
+*.fasta
