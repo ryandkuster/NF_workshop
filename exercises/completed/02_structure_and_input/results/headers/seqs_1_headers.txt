@@ -1,0 +1,1 @@
+/nfs/home/rkuster/NF_workshop/exercises/completed/02_structure_and_input/work/2b/871101508fc6a331e96f77e051a15d/seqs_1_headers.txt
