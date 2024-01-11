@@ -20,5 +20,7 @@ workflow {
            modules directory
         3. use the .collect() operator to send all of the GET_HEADERS
            output files to CONCAT_HEADERS at once
+        4. see if you can find and implement an additional operator from the
+           nextflow documentation
     */
 }
