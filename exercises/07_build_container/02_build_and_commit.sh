@@ -1,2 +1,4 @@
-docker tag star ryandk/star
-sudo docker push ryandk/star
+mydockerhubname=$1
+
+docker tag star ${mydockerhubname}/star
+sudo docker push ${mydockerhubname}/star
