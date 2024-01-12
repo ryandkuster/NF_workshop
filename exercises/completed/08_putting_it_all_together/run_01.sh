@@ -1,6 +1,6 @@
 nextflow ./pipeline/main.nf \
     --publish_dir results \
-    --fastq_seqs ../../../raw_data/fastq_seqs/ \
-    --genome /nfs/home/rkuster/NF_workshop/raw_data/refs/chr22_with_ERCC92.fa \
-    --annot /nfs/home/rkuster/NF_workshop/raw_data/refs/chr22_with_ERCC92.gtf \
+    --fastq_seqs /lustre/isaac/proj/UTK0262/raw_data_backup/fastq_seqs/ \
+    --genome /lustre/isaac/proj/UTK0262/raw_data_backup/refs/chr22_with_ERCC92.fa \
+    --annot /lustre/isaac/proj/UTK0262/raw_data_backup/refs/chr22_with_ERCC92.gtf \
     -resume

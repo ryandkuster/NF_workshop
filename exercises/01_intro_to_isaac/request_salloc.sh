@@ -1,6 +1,6 @@
-salloc --account <ACCOUNT> \
-  --partition=<PARTITION> \
-  --qos=<QOS> \
+salloc --account isaac-utk0262 \
+  --partition=short \
+  --qos=short \
   --nodes=1 \
-  --ntasks=2 \
-  --time=0-00:30:00
+  --ntasks=4 \
+  --time=0-03:00:00
