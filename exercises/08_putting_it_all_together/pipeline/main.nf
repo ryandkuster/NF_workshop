@@ -23,5 +23,13 @@ workflow {
            "annot" params
         3. in "nextflow.config", add "maxForks = 1", then run the
            pipeline again
+
+    bonus:
+        1. define labels for all tools
+            a. create labels for cpus per process
+            b. create label information with container information
+        2. add a trimming step
+        3. add a read counting step (e.g., htseq)
+        4. add a pseudocounting tool
     */
 }
