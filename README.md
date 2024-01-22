@@ -1,6 +1,11 @@
+# :warning: NOTICE: Workshop Postponed
+
+Due to inclement weather, the workshop has been postponded to January 23 - 25 in Plant Biotechnology Building room 223.
+
+
 # Nextflow and Containers Workshop
 
-For course content, please see the [wiki](https://github.com/ryandkuster/NF_WORKSHOP/wiki).
+For course content, please see the [wiki](https://github.com/ryandkuster/NF_workshop/wiki).
 
 
 ---
